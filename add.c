@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 
-    int number1=101, number2=202, sum=0;
+    int number1=105, number2=202, sum=0;
 
     //printf("Enter two integers: ");
     //scanf("%d %d", &number1, &number2);
